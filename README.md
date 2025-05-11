@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently enrolled as R&D software Tester Engineer in Wabtec (Piossasco)<br>🎯 Goals: Learning more about Sensor Fusion Algorithms and Biomedical Data Science field</p>
+<p align="left">📚 I'm currently enrolled as R&D software Tester Engineer in Wabtec (Piossasco)<br>🎯 Goals: Learning more about Sensor Fusion Algorithms and Biomedical Image and Signal Processing Algorithms and Data Science Techniques and Frameworks Consolidation </p>
 
 ###
 
