@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="left">Hey 👋 What's up?</h2>
 
 ###
 
-<p align="left">My name is Antonino and I'm a Biomedical Engineer specialized in Biomedical Signal Processing and Data Science, from 🇮🇹</p>
+<p align="left">My name is Antonino and I'm a Master's Degree Biomedical Engineer specialized in Biomedical Signal Processing, Image Processing and Data Science, from Politecnico di Torino 🇮🇹</p>
 
 ###
 
@@ -41,5 +41,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
+
+###
+
+<h2 align="left">Linkedin Profile</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<p align="left">https://www.linkedin.com/in/antonino-bellina-77758a1a4/</p>
 
 ###
