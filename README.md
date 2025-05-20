@@ -65,12 +65,12 @@
 
 ## 📚 Education
 
-**MSc in Computer Science**  
-University of XYZ, 2021–2023  
-- Thesis: *“Evaluating LLMs for Code Generation with Human Feedback”*
+**MSc in Biomedical Engineering E-health**  
+Politecnico di Torino, 2021–2024  
+- Thesis: *“Comparison by clustering of feature extractors from histopathological tiles of colorectal tumors, aggregated with Bag of Visual Words”*
 
-**BSc in Information Engineering**  
-University of ABC, 2018–2021
+**BSc in Biomedical Engineering**  
+Politecnico di Torino, 2014–2020
 
 ---
 
