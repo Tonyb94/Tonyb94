@@ -10,8 +10,8 @@
 
 ###
 🎓 Biomedical Engineering E-health MsC/ Biomedical Engineering BsC graduate  
-💻 Passionate about AI, Data Science, and Cloud Engineering  
-🌍 Based in [City, Country] — Open to remote opportunities
+💻 Passionate about AI, Data Science, Cloud Engineering, Signal Processing, IoT applications applied to Biomedical technologies  
+🌍 Based in [Villar Perosa (TO), Italy] — Open to remote opportunities
 
 <p align="left">📚 I'm currently enrolled as R&D Software Tester Engineer in Wabtec (Piossasco)<br>🎯 Goals: Learning more about Sensor Fusion Algorithms, Biomedical Image and Signal Processing Algorithms, Data Science Techniques and Frameworks Consolidation and IoT technologies Systems DevOps Deploying Consolidation </p>
 
