@@ -61,3 +61,20 @@
 <p align="left">https://www.linkedin.com/in/antonino-bellina-77758a1a4/</p>
 
 ###
+---
+
+## 📚 Education
+
+**MSc in Computer Science**  
+University of XYZ, 2021–2023  
+- Thesis: *“Evaluating LLMs for Code Generation with Human Feedback”*
+
+**BSc in Information Engineering**  
+University of ABC, 2018–2021
+
+---
+
+## 🗣️ Languages
+
+- Italian (Native)  
+- English (Professional)
