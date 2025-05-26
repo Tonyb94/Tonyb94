@@ -71,6 +71,7 @@
 **MSc in Biomedical Engineering E-health**  
 Politecnico di Torino, 2021–2024  
 - Thesis: *“Comparison by clustering of feature extractors from histopathological tiles of colorectal tumors, aggregated with Bag of Visual Words”*
+  (https://webthesis.biblio.polito.it/33667/)
 
 **BSc in Biomedical Engineering**  
 Politecnico di Torino, 2014–2020
