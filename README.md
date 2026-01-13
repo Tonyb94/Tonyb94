@@ -13,7 +13,7 @@
 <p align="left">
 🎓 Biomedical Engineering E-health MsC/ Biomedical Engineering BsC graduate<br>
 💻 Passionate about AI, Data Science, Cloud Engineering, Signal Processing, IoT applications applied to Biomedical technologies<br>
-🌍 Based in [Villar Perosa (TO), Italy] — Open to remote opportunities<br>📚 I'm currently enrolled as R&D Software Teste Engineer in Wabtec (Piossasco)<br>🎯 Goals: Learning more about Sensor Fusion Algorithms, Biomedical Image and Signal Processing Algorithms, Data Science Techniques, AI Frameworks Consolidation, IoT technologies Systems DevOps Deploying Consolidation </p>
+🌍 Based in [None (TO), Italy] — Open to remote opportunities<br>📚 I'm currently enrolled as Infotainment Software Test Engineer <br>🎯 Goals: Learning more about Sensor Fusion Algorithms, Biomedical Image and Signal Processing Algorithms, Data Science Techniques, AI Frameworks Consolidation, IoT technologies Systems DevOps Deploying Consolidation </p>
 
 ###
 
@@ -35,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" height="40" alt="labview logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
